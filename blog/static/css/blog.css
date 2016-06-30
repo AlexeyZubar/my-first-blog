@@ -1,13 +1,16 @@
 .page-header {
     background-color: #FF9400;
     margin-top: 0;
-    padding: 20px 20px 20px 60px;
+    padding: 20px 40px 40px 60px;
 }
 
 .page-header h1, .page-header h1 a, .page-header h1 a:visited, .page-header h1 a:active {
     color: #FFFFFF;
     font-size: 40pt;
     text-decoration: none;
+}
+.pen  {
+    float: right;
 }
 
 .content {
@@ -33,9 +36,10 @@ h1, h2, h3, h4 {
 
 .top-menu, .top-menu:hover, .top-menu:visited {
     color: #ffffff;
-    float: right;
+    float: right ;
     font-size: 26pt;
     margin-right: 20px;
+
 }
 
 .post {
